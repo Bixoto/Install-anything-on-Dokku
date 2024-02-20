@@ -41,12 +41,6 @@ Pull requests welcome!
 
 * [Gitlab](https://github.com/hardpixel/dokku-gitlab) (old)
 
-## Registries
-
-* [Private Docker registry](https://github.com/ebeigarts/dokku-private-registry) (old)
-* [Private PyPI server](https://github.com/Bixoto/dokku-pypiserver)
-* [Verdaccio](https://github.com/ebeigarts/dokku-verdaccio): private npm registry server
-
 ## Monitoring
 
 * [GlitchTip](https://github.com/b-ggs/dokku-glitchtip): Open-source reimplementation of Sentry
@@ -55,6 +49,12 @@ Pull requests welcome!
 * [Sentry](https://github.com/mimischi/dokku-sentry) (old)
 * [Uptime Kuma](https://github.com/d1ceward/uptime_kuma_on_dokku)
 
-### Object Storage
+## Object Storage
 
 * [MinIO](https://github.com/d1ceward/minio_on_dokku)
+
+## Package Registries
+
+* [Private Docker registry](https://github.com/ebeigarts/dokku-private-registry) (old)
+* [Private PyPI server](https://github.com/Bixoto/dokku-pypiserver)
+* [Verdaccio](https://github.com/ebeigarts/dokku-verdaccio): private npm registry server
