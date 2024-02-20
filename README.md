@@ -2,7 +2,12 @@
 
 This repository aims to list ready-to-use repositories to **install anything on [Dokku][]**.
 
-This list contain only applications; for plugins see the [official list](https://github.com/dokku/dokku/blob/master/docs/community/plugins.md).
+This list contain only applications; for plugins see the [official list][plugins]. Repositories that have not been
+updated in the past two years are shown as `(old)`.
+
+Pull requests welcome!
+
+[plugins]: https://github.com/dokku/dokku/blob/master/docs/community/plugins.md
 
 [Dokku]: https://dokku.com/
 
