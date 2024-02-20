@@ -12,8 +12,8 @@ Pull requests welcome!
 [Dokku]: https://dokku.com/
 
 * [Kamu](https://github.com/ayr-ton/kamu): application to manage a physical library
-* [Kibana](https://github.com/rclement/dokku-kibana) (old)
-* [NextCloud](https://github.com/dionysio/dokku-nextcloud) (old)
+* [Kibana](https://github.com/rclement/dokku-kibana): data visualization dashboard (old)
+* [NextCloud](https://github.com/dionysio/dokku-nextcloud): file-hosting service (old)
 * [Shlink](https://github.com/d1ceward/shlink_on_dokku): PHP-based self-hosted URL shortener
 
 ## Analytics
@@ -32,9 +32,9 @@ Pull requests welcome!
 
 ## Communication
 
-* [Discourse](https://github.com/badsyntax/dokku-discourse) (old)
-* [Mastodon](https://github.com/cooperaj/dokku-mastodon)
-* [Mattermost](https://tech.bixoto.com/deploy-mattermost-on-dokku/) (tutorial)
+* [Discourse](https://github.com/badsyntax/dokku-discourse): open-source discussion platform (old)
+* [Mastodon](https://github.com/cooperaj/dokku-mastodon): open-source software for federated micro-blogging
+* [Mattermost](https://tech.bixoto.com/deploy-mattermost-on-dokku/): open-source Slack alternative (tutorial)
 * [Miniflux](https://felix.fyi/install-miniflux-using-dokku): RSS feed reader (tutorial)
 
 ## Development
