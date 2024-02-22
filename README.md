@@ -65,7 +65,7 @@ Pull requests welcome!
 * [Private PyPI server](https://github.com/Bixoto/dokku-pypiserver)
 * [Verdaccio](https://github.com/ebeigarts/dokku-verdaccio): private npm registry server
 
-## Storage
+## Storage and databases
 
 See the [official list][plugins] for all databases.
 
