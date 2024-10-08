@@ -84,3 +84,4 @@ See the [official list][plugins] for all databases.
 * [Kamu](https://github.com/ayr-ton/kamu): application to manage a physical library
 * [NextCloud](https://github.com/dionysio/dokku-nextcloud): file-hosting service (2018)
 * [Shlink](https://github.com/d1ceward/shlink_on_dokku): PHP-based self-hosted URL shortener
+* [Chatwood](https://github.com/mvr-studio/chatwoot_on_dokku) (2023)
