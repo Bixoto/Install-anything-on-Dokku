@@ -40,7 +40,7 @@ Pull requests welcome!
 
 ## CRM
 
-* [Chatwood](https://github.com/mvr-studio/chatwoot_on_dokku) (2023)
+* [Chatwoot](https://github.com/mvr-studio/chatwoot_on_dokku) (2023). See also [this blog post](https://www.betalab.in/blog/how-to-self-host-chatwoot-a-complete-step-by-step-guide/)
 
 ## Data Visualization
 
