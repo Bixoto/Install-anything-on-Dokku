@@ -22,9 +22,10 @@ Pull requests welcome!
     * [Infinite WP](https://github.com/sman591/infinite-wp-dokku) (2019)
     * [WPacked](https://github.com/enricodeleo/wpacked): WordPress development starter kit
 
-## CMS
+## Headless CMS
 
 * [Strapi](https://strapi.io/blog/how-to-deploy-strapi-on-dokku-and-digitalocean) (tutorial)
+* Directus: [tutorial 1](https://codedgeekery.com/blog/deploy-directus-to-dokku), [tutorial 2](https://candland.net/posts/2023/02-02-directus-dokku-setup/) (2023)
 
 ## Communication
 
