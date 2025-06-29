@@ -91,5 +91,6 @@ See the [official list][plugins] for all databases.
 ## Others
 
 * [Kamu](https://github.com/ayr-ton/kamu): application to manage a physical library
+* [Monica](https://www.darraghoriordan.com/2022/08/28/monica-personal-crm-on-dokku): personal CRM (tutorial)
 * [NextCloud](https://github.com/dionysio/dokku-nextcloud): file-hosting service (2018)
 * [Shlink](https://github.com/d1ceward/shlink_on_dokku): PHP-based self-hosted URL shortener
