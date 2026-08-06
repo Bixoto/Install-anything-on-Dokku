@@ -62,7 +62,7 @@ Pull requests welcome!
 
 ## Monitoring
 
-* [GlitchTip](https://github.com/b-ggs/dokku-glitchtip): Open-source reimplementation of Sentry
+* [GlitchTip](https://github.com/Bixoto/dokku-glitchtip): Open-source equivalent of Sentry
 * [Logstash](https://github.com/rclement/dokku-logstash) (2018)
 * [Renovate](https://github.com/code-fabrik/open-knowledge/blob/master/software/dokku/docker-image-deploys/renovate.md): dependency monitor (tutorial, 2021)
 * [Sentry](https://github.com/mimischi/dokku-sentry) (2019)
