@@ -2,7 +2,7 @@
 
 This repository aims to list ready-to-use repositories to **install anything on [Dokku][]**.
 
-This list contain only applications; See the [official list][plugins] for plugins.
+This list contains only applications; See the [official list][plugins] for plugins.
 
 Pull requests welcome!
 
@@ -47,6 +47,7 @@ Pull requests welcome!
 
 * [Grafana](https://github.com/d1ceward/grafana_on_dokku)
 * [Kibana](https://github.com/rclement/dokku-kibana): data visualization dashboard (2018)
+* [Metabase](https://github.com/d1ceward-on-dokku/metabase_on_dokku): business intelligence and analytics
 
 ## Development
 
@@ -62,6 +63,8 @@ Pull requests welcome!
 
 ## Monitoring
 
+* [Beszel](https://github.com/chilian/beszel_on_dokku): lightweight server monitoring
+* [Bugsink](https://github.com/d1ceward-on-dokku/bugsink_on_dokku): lightweight Sentry-compatible error tracking
 * [GlitchTip](https://github.com/Bixoto/dokku-glitchtip): Open-source equivalent of Sentry
 * [Logstash](https://github.com/rclement/dokku-logstash) (2018)
 * [Renovate](https://github.com/code-fabrik/open-knowledge/blob/master/software/dokku/docker-image-deploys/renovate.md): dependency monitor (tutorial, 2021)
